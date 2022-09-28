@@ -14,7 +14,9 @@
 - Correct Data format is required or else request will not be accepted.
 - Pull Request wil be accepted if no Error are found
 
-EXAMPLE- "id":"01",
+EXAMPLE- 
+
+          "id":"01",
 
          "book-name": "Think And Grow Rich",
          
