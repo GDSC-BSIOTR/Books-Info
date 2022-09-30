@@ -5,8 +5,12 @@
          "id":"01",
          "book-name": "Think And Grow Rich",
          "Author": "Napoleon Hill",
-         "language": "English"
 
+         "language": "Hindi"
+
+
+
+         "language": "English"
 
       },
 
@@ -14,17 +18,35 @@
         "id":"02",
         "book-name": "Yes We Can ",
         "Author": "Garen Thomas",
+
+        "language": "Sanskrit "
+
+
         "language": "English"
+
+
+        "language": "Sanskrit "
+
+
+      },
+      {
+        "id":"03",
+        "book-name": "Elon Musk ",
+        "Author": "Ashlee Vance",
+        "language": "Sanskrit "
 
       },
       
-      {
-        "id":"03",
+       {
+
+        
+        "id":"04",
         "book-name": "Elon Musk ",
         "Author": "Ashlee Vance",
         "language": "English"
 
       },
+
        {
         "id":"04",
         "book-name": "RICH DAD POOR DAD ",
@@ -32,5 +54,64 @@
         "language": "English"
 
       },
+
+      {
+
+
+        
+        "id":"06",
+        "book-name": "Elon Musk ",
+        "Author": "Ashlee Vance",
+        "language": "English"
+
+      },
+      
+
+        "id":"04",
+        "book-name": "Agnipankha ",
+        "Author": "A.P.J,Abdul Kalam",
+        "language": "Marathi"
+
+      },
+
+      
+   
+       {
+        "id":"022",
+        "book-name": "The Intelligent Investor",
+        "Author": "Benjamin Graham",
+        
+        },
+
+       {
+        "id":"12",
+        "book-name": "rich dad poor dad ",
+        "Author": "Robert Kiyosaki ",
+        "language": "English"
+      },
+      {
+        "id":"04",
+        "book-name": "The Joy of Compounding",
+        "Author": "Gautam Baid",
+        "language": "English"
+      }
+      {
+        "id":"02",
+        "book-name": "The White Tiger ",
+        "Author": "Arvind Adiga",
+        "language": "English"
+
+      },
+
+      {
+        "id":"15",
+        "book-name": "A little book of india ",
+        "Author": "Ruskin Bond",
+        
+        },
+      
+      
+   
+
    ]
 }
