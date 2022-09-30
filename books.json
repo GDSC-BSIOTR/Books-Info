@@ -6,14 +6,17 @@
          "book-name": "Think And Grow Rich",
          "Author": "Napoleon Hill",
 
+
          "language": "Hindi"
 
 
          "language": "Hindi"
+
 
 
 
          "language": "English"
+
 
       },
 
@@ -21,6 +24,10 @@
         "id":"02",
         "book-name": "Yes We Can ",
         "Author": "Garen Thomas",
+
+        "language": "English"
+
+
 
         "language": "marathi "
 
@@ -36,13 +43,13 @@
 
         "language": "Sanskrit "
 
-
       },
+      
       {
         "id":"03",
         "book-name": "Elon Musk ",
         "Author": "Ashlee Vance",
-        "language": "Sanskrit "
+        "language": "English"
 
       },
 
@@ -65,20 +72,11 @@
         "language": "English"
 
       },
-
-       {
-        "id":"04",
-        "book-name": "RICH DAD POOR DAD ",
-        "Author": "Robert Kiyosaki",
-        "language": "English"
-
-      },
-
       {
 
 
         
-        "id":"06",
+        "id":"05",
         "book-name": "Elon Musk ",
         "Author": "Ashlee Vance",
         "language": "English"
@@ -86,7 +84,7 @@
       },
       
 
-        "id":"04",
+        "id":"06",
         "book-name": "Agnipankha ",
         "Author": "A.P.J,Abdul Kalam",
         "language": "Marathi"
@@ -107,12 +105,7 @@
         "book-name": "rich dad poor dad ",
         "Author": "Robert Kiyosaki ",
         "language": "English"
-      },
-      {
-        "id":"04",
-        "book-name": "The Joy of Compounding",
-        "Author": "Gautam Baid",
-        "language": "English"
+
       }
       {
         "id":"02",
@@ -129,6 +122,15 @@
         
         },
 
+         {
+         "id":"16",
+         "book-name": "The Monk who sold his Ferrari",
+         "Author": "Robin Sharma",
+         "language": "English"
+
+
+      },
+
          
       {
         "id":"16",
@@ -144,10 +146,10 @@
 
         
         },
+
       
       
    
-
    ]
 }
 
