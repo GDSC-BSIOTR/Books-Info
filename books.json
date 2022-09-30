@@ -10,9 +10,6 @@
          "language": "Hindi"
 
 
-         "language": "Hindi"
-
-
 
 
          "language": "English"
@@ -33,12 +30,11 @@
 
 
 
+
         "language": "Sanskrit "
 
 
-
         "language": "English"
-
 
 
         "language": "Sanskrit "
@@ -52,16 +48,6 @@
         "language": "English"
 
       },
-
-
-{
-        "id":"04",
-        "book-name": "Think like a monk ",
-        "Author": "Jay shetty",
-        "language": "English"
-
-      },
-
       
        {
 
@@ -122,6 +108,12 @@
         
         },
 
+ {
+        "id":"14",
+        "book-name": "",
+        "Author": "Ruskin Bond",
+
+
          {
          "id":"16",
          "book-name": "The Monk who sold his Ferrari",
@@ -144,6 +136,7 @@
         "Author": "Robert Lafore",
         "Language": "English"
 
+
         
         },
 
@@ -151,11 +144,4 @@
       
    
    ]
-}
-
-
-{
-        "book-name": "The Power Of Positive Thinking",
-        "Author": "Norman Vincent Peale",
-        "language": "English"
 }
