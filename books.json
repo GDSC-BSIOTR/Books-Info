@@ -5,6 +5,16 @@
          "id":"01",
          "book-name": "Think And Grow Rich",
          "Author": "Napoleon Hill",
+
+
+         "language": "Hindi"
+
+
+         "language": "Hindi"
+
+
+
+
          "language": "English"
 
 
@@ -14,7 +24,24 @@
         "id":"02",
         "book-name": "Yes We Can ",
         "Author": "Garen Thomas",
+
         "language": "English"
+
+
+
+        "language": "marathi "
+
+
+
+        "language": "Sanskrit "
+
+
+
+        "language": "English"
+
+
+
+        "language": "Sanskrit "
 
       },
       
@@ -25,6 +52,16 @@
         "language": "English"
 
       },
+
+
+{
+        "id":"04",
+        "book-name": "Think like a monk ",
+        "Author": "Jay shetty",
+        "language": "English"
+
+      },
+
       
        {
 
@@ -93,8 +130,32 @@
 
 
       },
+
+         
+      {
+        "id":"16",
+        "book-name": "The Christmas Pig",
+        "Author": "JK Rowling",
+
+
+        {
+        "id":"21",
+        "book-name": "Data Structures & Algorithms in Java ",
+        "Author": "Robert Lafore",
+        "Language": "English"
+
+        
+        },
+
       
       
    
    ]
+}
+
+
+{
+        "book-name": "The Power Of Positive Thinking",
+        "Author": "Norman Vincent Peale",
+        "language": "English"
 }
