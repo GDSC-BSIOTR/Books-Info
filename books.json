@@ -32,12 +32,16 @@
       {
         "id":"02",
 
+        "book-name": "no We Can ",
+
+
         "book-name": "Germinal",
         "Author": "Emile Zola ",
         "language": "English"
 
 
         "book-name": "Yes We Can ",
+
         "Author": "Garen Thomas",
 
         "language": "English"
@@ -62,6 +66,11 @@
       
       {
         "id":"03",
+
+        "book-name": "shubhamMusk ",
+        "Author": "Ashlee Vance",
+        "language": "hindi"
+
 
         "book-name": "pariksha guru",
         "Author": "Srinivas das",
@@ -93,6 +102,7 @@
         "book-name": "She Stood By Me",
         "Author": "Tarun Vikash",
         "language": "English"
+
 
       },
       {
