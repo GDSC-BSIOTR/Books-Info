@@ -54,10 +54,6 @@
 
         "language": "English"
 
-
-        "language": "Sanskrit "
-
-
       },
       
       {
@@ -337,4 +333,10 @@
       
          ]
 }
+      {
+        "id":  "16",
+        "book-name":  "believe in yourself",
+        "author":  "dr joseph murphy",
+      },
+
 
