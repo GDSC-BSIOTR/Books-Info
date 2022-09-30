@@ -9,9 +9,6 @@
          "language": "Hindi"
 
 
-         "language": "Hindi"
-
-
 
          "language": "English"
 
@@ -22,16 +19,10 @@
         "book-name": "Yes We Can ",
         "Author": "Garen Thomas",
 
-        "language": "marathi "
-
-
-
         "language": "Sanskrit "
 
 
-
         "language": "English"
-
 
 
         "language": "Sanskrit "
@@ -45,16 +36,6 @@
         "language": "Sanskrit "
 
       },
-
-
-{
-        "id":"04",
-        "book-name": "Think like a monk ",
-        "Author": "Jay shetty",
-        "language": "English"
-
-      },
-
       
        {
 
@@ -65,15 +46,6 @@
         "language": "English"
 
       },
-
-       {
-        "id":"04",
-        "book-name": "RICH DAD POOR DAD ",
-        "Author": "Robert Kiyosaki",
-        "language": "English"
-
-      },
-
       {
 
 
@@ -128,32 +100,14 @@
         "Author": "Ruskin Bond",
         
         },
-
-         
-      {
-        "id":"16",
-        "book-name": "The Christmas Pig",
-        "Author": "JK Rowling",
-
-
-        {
-        "id":"21",
-        "book-name": "Data Structures & Algorithms in Java ",
-        "Author": "Robert Lafore",
-        "Language": "English"
-
+ {
+        "id":"14",
+        "book-name": "",
+        "Author": "Ruskin Bond",
         
         },
       
       
    
-
    ]
-}
-
-
-{
-        "book-name": "The Power Of Positive Thinking",
-        "Author": "Norman Vincent Peale",
-        "language": "English"
 }
