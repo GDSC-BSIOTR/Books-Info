@@ -69,7 +69,12 @@
         
         },
       
-      
+       {
+         "id":"26",
+         "book-name": "The Power of your subconscious mind",
+         "Author": "Joseph Murphy",
+         "language": "English"
+      },
       
    ]
 }
