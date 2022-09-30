@@ -78,7 +78,7 @@
         "language": "English"
         } 
 
-      }
+
       
       {
          "id":"16",
@@ -299,6 +299,14 @@
         
         "book-name": "The Power Of Positive Thinking",
         "Author": "Norman Vincent Peale",
+        "language": "English"
+
+      },
+      
+       {
+        "id":"02",
+        "book-name": "Wings of fire ",
+        "Author": "A.P.J. Abdul kalam",
         "language": "English"
 
       },
