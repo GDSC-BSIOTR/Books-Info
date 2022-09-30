@@ -3,7 +3,7 @@
 
       {
          "id":"01",
-         "book-name": "Think And Do",
+         "book-name": "Think And Grow Rich",
          "Author": "Napoleon Hill",
 
          "language": "Hindi"
@@ -16,15 +16,10 @@
 
       {
         "id":"02",
-
-        "book-name": "Yes We Can Do ",
-        "Author": "Jorge Thomas",
-
         "book-name": "Yes We Can ",
         "Author": "Garen Thomas",
 
         "language": "Sanskrit "
-
 
 
         "language": "English"
@@ -36,11 +31,8 @@
       },
       {
         "id":"03",
-        "book-name": "Elon Anderson ",
+        "book-name": "Elon Musk ",
         "Author": "Ashlee Vance",
-
-        "language": "Spanish"
-
         "language": "Sanskrit "
 
       },
@@ -50,7 +42,6 @@
         "book-name": "Think like a monk ",
         "Author": "Jay shetty",
         "language": "English"
-
 
       },
 
@@ -126,6 +117,13 @@
         "id":"15",
         "book-name": "A little book of india ",
         "Author": "Ruskin Bond",
+        
+        },
+         
+      {
+        "id":"16",
+        "book-name": "The Christmas Pig",
+        "Author": "JK Rowling",
         
         },
       
