@@ -3,11 +3,16 @@
 
       {
          "id":"01",
+
+         "book-name": "Tom jones",
+         "Author": "Hendry fielding",
+
          "book-name": "Think And Grow Rich",
          "Author": "Napoleon Hill",
 
 
          "language": "Hindi"
+
 
 
 
@@ -19,6 +24,12 @@
 
       {
         "id":"02",
+
+        "book-name": "Germinal",
+        "Author": "Emile Zola ",
+        "language": "English"
+
+
         "book-name": "Yes We Can ",
         "Author": "Garen Thomas",
 
@@ -39,13 +50,20 @@
 
         "language": "Sanskrit "
 
+
       },
       
       {
         "id":"03",
+
+        "book-name": "pariksha guru",
+        "Author": "Srinivas das",
+        "language": "Hindi"
+
         "book-name": "Elon Musk ",
         "Author": "Ashlee Vance",
         "language": "English"
+
 
       },
       
@@ -53,8 +71,8 @@
 
         
         "id":"04",
-        "book-name": "Elon Musk ",
-        "Author": "Ashlee Vance",
+        "book-name": " sily novels",
+        "Author": "George Elliot",
         "language": "English"
 
       },
@@ -64,7 +82,7 @@
         
         "id":"05",
         "book-name": "Elon Musk ",
-        "Author": "Ashlee Vance",
+        "Author": "Ashlee yanfe",
         "language": "English"
 
       },
@@ -81,7 +99,7 @@
    
        {
         "id":"022",
-        "book-name": "The Intelligent Investor",
+        "book-name": "The Intelligent creator",
         "Author": "Benjamin Graham",
         
         },
@@ -95,8 +113,8 @@
       }
       {
         "id":"02",
-        "book-name": "The White Tiger ",
-        "Author": "Arvind Adiga",
+        "book-name": "The Black tiger ",
+        "Author": "ravindra Adiga",
         "language": "English"
 
       },
