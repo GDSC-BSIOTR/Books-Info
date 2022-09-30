@@ -3,7 +3,7 @@
 
       {
          "id":"01",
-         "book-name": "Think And Grow Rich",
+         "book-name": "Think And Do",
          "Author": "Napoleon Hill",
          "language": "English"
 
@@ -12,17 +12,17 @@
 
       {
         "id":"02",
-        "book-name": "Yes We Can ",
-        "Author": "Garen Thomas",
+        "book-name": "Yes We Can Do ",
+        "Author": "Jorge Thomas",
         "language": "English"
 
       },
       
       {
         "id":"03",
-        "book-name": "Elon Musk ",
+        "book-name": "Elon Anderson ",
         "Author": "Ashlee Vance",
-        "language": "English"
+        "language": "Spanish"
 
       },
       
