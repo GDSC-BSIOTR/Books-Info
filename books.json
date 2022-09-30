@@ -6,18 +6,19 @@
          "book-name": "Think And Grow Rich",
          "Author": "Napoleon Hill",
          "language": "English"
-
-
       },
 
       {
         "id":"02",
         "book-name": "Yes We Can ",
         "Author": "Garen Thomas",
+
+        "language": "English"
+
         "language": "Sanskrit "
 
+
       },
-      
       {
         "id":"03",
         "book-name": "Elon Musk ",
@@ -68,7 +69,12 @@
         "book-name": "rich dad poor dad ",
         "Author": "Robert Kiyosaki ",
         "language": "English"
-
+      },
+      {
+        "id":"04",
+        "book-name": "The Joy of Compounding",
+        "Author": "Gautam Baid",
+        "language": "English"
       }
       {
         "id":"02",
