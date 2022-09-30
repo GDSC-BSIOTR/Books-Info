@@ -5,7 +5,13 @@
          "id":"01",
          "book-name": "Think And Grow Rich",
          "Author": "Napoleon Hill",
+
+         "language": "Hindi"
+
+
+
          "language": "English"
+
       },
 
       {
@@ -13,7 +19,11 @@
         "book-name": "Yes We Can ",
         "Author": "Garen Thomas",
 
+        "language": "Sanskrit "
+
+
         "language": "English"
+
 
         "language": "Sanskrit "
 
