@@ -24,26 +24,14 @@
         "Author": "Ashlee Vance",
         "language": "English"
 
-      },
+      }
       
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-      
-       {
-        "id":"022",
-        "book-name": "The Intelligent Investor",
-        "Author": "Benjamin Graham",
-        "language": "English"
+      {
+         "id":"16",
+         "book-name": "SUBTLE ART OF NOT GIVING A FUCK",
+         "Author": "MARK MANSON",
+         "language": "English"
+
 
       },
    ]
