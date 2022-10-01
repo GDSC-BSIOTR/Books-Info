@@ -554,5 +554,11 @@
        "Author": "Ernest Hemingway",
        "language": "English"
 },
+{
+  "id":"2303",
+       "book-name": "The Almanack of Naval Ravikant",
+       "Author": "Eric Jorgenson",
+       "language": "English"
+},
 
 ]
