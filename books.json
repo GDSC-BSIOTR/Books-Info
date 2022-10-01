@@ -526,6 +526,12 @@
         "book-name": "The 7 Habits of highly effective people ",
         "Author": "Stephen Covey",
         "language": "English"
-
+},
+{
+  "id":"1004",
+       "book-name": "The Old Man and the Sea",
+       "Author": "Ernest Hemingway",
+       "language": "English"
+},
 
 ]
