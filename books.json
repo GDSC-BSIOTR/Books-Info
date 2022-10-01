@@ -566,5 +566,10 @@
        "Author": "Eric Jorgenson",
        "language": "English"
 },
-
+{
+      "id":"3003",
+      "book-name": "All Quiet on the Western Front",
+      "Author": "Erich Maria Remarque",
+      "language": "English"
+},
 ]
