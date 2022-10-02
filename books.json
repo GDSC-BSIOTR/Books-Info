@@ -520,5 +520,25 @@
       "Author": "Raditya Dika",
       "language": "Indonesian"
     }
-  ]
+  
+},
+{
+  "id":"2305",
+       "book-name": "The Almanack of Naval Ravikant",
+       "Author": "Eric Jorgenson",
+       "language": "English"
+},
+{
+      "id":"3003",
+      "book-name": "All Quiet on the Western Front",
+      "Author": "Erich Maria Remarque",
+      "language": "English"
+},
+{
+  "id":"2303",
+       "book-name": "Never Split the Difference",
+       "Author": "Chris Voss",
+       "language": "English"
+},
+]
 }
