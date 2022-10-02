@@ -525,6 +525,7 @@
       "book-name": "Marmut Merah Jambu",
       "Author": "Raditya Dika",
       "language": "Indonesian"
+
     },
     {
       "id":"2305",
@@ -543,6 +544,43 @@
            "book-name": "Never Split the Difference",
            "Author": "Chris Voss",
            "language": "English"
+    },
+{
+  "id":"2305",
+       "book-name": "The Almanack of Naval Ravikant",
+       "Author": "Eric Jorgenson",
+       "language": "English"
+},
+{
+      "id":"3003",
+      "book-name": "All Quiet on the Western Front",
+      "Author": "Erich Maria Remarque",
+      "language": "English"
+},
+{
+  "id":"2303",
+       "book-name": "Never Split the Difference",
+       "Author": "Chris Voss",
+       "language": "English"
+
+},
+{
+  "id":"2304",
+       "book-name": " Steve Jobs ",
+       "Author": "Walter Isaacson ",
+       "language": "English"
+},
+{
+  "id":"2305",
+       "book-name": " IT ",
+       "Author": "Stephen King ",
+       "language": "English"
+},
+{
+  "id":"23675",
+       "book-name": " Laws of power ",
+       "Author": "Robert Greene ",
+       "language": "English"
 
     },
     {
