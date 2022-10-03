@@ -545,50 +545,50 @@
            "Author": "Chris Voss",
            "language": "English"
     },
-{
-  "id":"2305",
+    {
+       "id":"2305",
        "book-name": "The Almanack of Naval Ravikant",
        "Author": "Eric Jorgenson",
        "language": "English"
-},
-{
+    },
+    {
       "id":"3003",
       "book-name": "All Quiet on the Western Front",
       "Author": "Erich Maria Remarque",
       "language": "English"
-},
-{
-  "id":"2303",
-       "book-name": "Never Split the Difference",
-       "Author": "Chris Voss",
-       "language": "English"
+     },
+    {
+      "id":"2303",
+           "book-name": "Never Split the Difference",
+           "Author": "Chris Voss",
+           "language": "English"
 
-},
-{
-  "id":"2304",
-       "book-name": " Steve Jobs ",
-       "Author": "Walter Isaacson ",
-       "language": "English"
-},
-{
-  "id":"2305",
-       "book-name": " IT ",
-       "Author": "Stephen King ",
-       "language": "English"
+    },
+    {
+      "id":"2304",
+           "book-name": " Steve Jobs ",
+           "Author": "Walter Isaacson ",
+           "language": "English"
+    },
+    {
+      "id":"2305",
+           "book-name": " IT ",
+           "Author": "Stephen King ",
+           "language": "English"
 
-},
-{
-  "id": "000007",
-  "book-name": "hello world ",
-  "Author": "Aman Singh",
-  "language": "Tamil"
+    },
+    {
+      "id": "000007",
+      "book-name": "hello world ",
+      "Author": "Aman Singh",
+      "language": "Tamil"
 
-},
-{
-  "id":"23675",
-       "book-name": " Laws of power ",
-       "Author": "Robert Greene ",
-       "language": "English"
+    },
+    {
+      "id":"23675",
+           "book-name": " Laws of power ",
+           "Author": "Robert Greene ",
+           "language": "English"
 
     },
     {
@@ -608,5 +608,17 @@
            "book-name": "The Origin of Species",
            "Author": "Charles Darwin",
            "language": "English"
+    },
+    {
+      "id": "2307",
+      "book-name": "The 100: A Ranking of the Most Influential Persons in History",
+      "Author": "Michael H. Hart",
+      "language": "English"
+    },
+    {
+      "id": "2308",
+      "book-name": "Jika Kita Tak Pernah Jadi Apa-Apa",
+      "Author": "Alvi Syahrin",
+      "language": "Indonesia"
     }
 ]}
