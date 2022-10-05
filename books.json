@@ -706,6 +706,12 @@
       "book-name": "Algorithms Unlocked",
       "Author": "Thomas H. Cormen",
       "language": "English"
+    },
+    {
+       "id":"1205",
+       "book-name": "Queen of Fire",   
+       "Author": "Devika Rangachari",
+       "language": "English"
     }
   ]
 }
