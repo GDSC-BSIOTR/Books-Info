@@ -706,6 +706,12 @@
       "book-name": "Algorithms Unlocked",
       "Author": "Thomas H. Cormen",
       "language": "English"
+    },
+    {
+      "id": "1200",
+      "book-name": "Do Epic Shit",
+      "Author": "Ankur Warikoo",
+      "language": "English"
     }
   ]
 }
