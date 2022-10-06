@@ -1,6 +1,12 @@
 {
   "book": [
     {
+      "id": "999888",
+      "book-name": "Chanakya Neeti- Strategies for Success",
+      "Author": "Radhakrishnan Pillai",
+      "language": "English"
+    },
+    {
       "id": "100000",
       "book-name": "The Alchemist",
       "Author": "Paulo Coleho",
@@ -660,7 +666,7 @@
            "book-name": "The Canterville Ghost",
            "Author": "Oscar Wilde",
            "language": "English"
-    }    
+    },    
     {
       "id": "23675",
       "book-name": " Laws of power ",
@@ -688,12 +694,12 @@
     {
       "id": "2307",
       "book-name": "The Whole-Brain Child",
-      "Author": "Daniel J Siegel MD",
+      "Author": "Daniel J Siegel MD"
     }, 
     {
-      "id": "00".
+      "id": "00",
       "book-name": "Do Epic Shit",
-      "Author": "Ankur Warikoo", 
+      "Author": "Ankur Warikoo"
     },
     {
        "id":"93",
@@ -712,7 +718,7 @@
       "book-name": "Who Will cry When You Die",
       "Author": "Robin sharma",
       "language": "English"
-    }.
+    },
     {
        "id":"1205",
        "book-name": "Queen of Fire",   
