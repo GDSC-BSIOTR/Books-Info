@@ -761,6 +761,12 @@
       "book-name": "Introduction to Algorithms",
       "Author": " Thomas H. Cormen, Charles E. Leiserson, Ronald Rivest, Clifford Stein",
       "language": "English"
+    },
+    {
+      "id": "1",
+      "book-name": "The India Way: Strategies for an Uncertain World",
+      "Author": " S. Jaishankar",
+      "language": "English"
     }
   ]
 }
