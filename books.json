@@ -755,6 +755,12 @@
       "book-name": "How To Win Friends & Influence People",
       "Author": "Dale Carnegie",
       "language": "English"
+    },
+    {
+      "id": "786",
+      "book-name": "Introduction to Algorithms",
+      "Author": " Thomas H. Cormen, Charles E. Leiserson, Ronald Rivest, Clifford Stein",
+      "language": "English"
     }
   ]
 }
