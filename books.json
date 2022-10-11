@@ -4,6 +4,11 @@
       "id": "421485",
       "book-name": "The Algorithm Design Manual",
       "Author": "Book by Steven Skiena",
+      },
+      {
+      "id": "589265",
+      "book-name": "Data Structures and Algorithms Made Easy In Java",
+      "Author": "Narasimha Karumanchi",
       "language": "English"
     },
     {
@@ -163,11 +168,9 @@
 
       "book-name": "pariksha guru",
       "Author": "Srinivas das",
-      "language": "Hindi",
+      "language": "Hindi"
 
-      "book-name": "Elon Musk ",
-      "Author": "Ashlee Vance",
-      "language": "English"
+      
     },
     {
       "id": "04",
@@ -793,9 +796,42 @@
       "language": "English"
     },
 {
-  "id" : "064"
-  "book-name" : "The Alchemist"
-  "Author" : " Paulo Coelho"
+  "id" : "064",
+  "book-name" : "The Alchemist",
+  "Author" : " Paulo Coelho",
   "language" : "English"
 },
-  
+{      "id":"6969",
+     "book-name": "To the Lighthouse",
+     "Author":"Virginia Woolf",
+     "language": "English"
+    },
+{
+  "id": "28",
+  "book-name": "Data Analytics: The Complete Beginner's Guide: the Black Book",
+  "Author": "Byron Francis",
+  "language": "English"
+}
+
+
+{    
+     "id":"0126",
+     "book-name": "The Midnight Library",
+     "Author":"Matt Haig",
+     "language": "English"
+},
+    
+{    
+     "id":"0125",
+     "book-name": "Anxious People",
+     "Author":"Fredrik Backman",
+     "language": "English"
+},
+{
+  "id" : "065",
+  "book-name" : "A Prisoner of Birth",
+  "Author" : " Jeffrey Archer",
+  "language" : "English"
+}
+]
+}
