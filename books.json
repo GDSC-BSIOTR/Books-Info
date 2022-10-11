@@ -1,6 +1,12 @@
 {
   "book": [
     {
+      "id": "421485",
+      "book-name": "The Algorithm Design Manual",
+      "Author": "Book by Steven Skiena",
+      "language": "English"
+    },
+    {
       "id": "999888",
       "book-name": "Chanakya Neeti- Strategies for Success",
       "Author": "Radhakrishnan Pillai",
