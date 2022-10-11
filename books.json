@@ -157,11 +157,9 @@
 
       "book-name": "pariksha guru",
       "Author": "Srinivas das",
-      "language": "Hindi",
+      "language": "Hindi"
 
-      "book-name": "Elon Musk ",
-      "Author": "Ashlee Vance",
-      "language": "English"
+      
     },
     {
       "id": "04",
@@ -787,9 +785,18 @@
       "language": "English"
     },
 {
-  "id" : "064"
-  "book-name" : "The Alchemist"
-  "Author" : " Paulo Coelho"
+  "id" : "064",
+  "book-name" : "The Alchemist",
+  "Author" : " Paulo Coelho",
   "language" : "English"
 },
+{
+  "id" : "065",
+  "book-name" : "A Prisoner of Birth",
+  "Author" : " Jeffrey Archer",
+  "language" : "English"
+}
+
+]
   
+}
