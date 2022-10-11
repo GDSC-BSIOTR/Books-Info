@@ -1,6 +1,11 @@
 {
   "book": [
     {
+      "id": "421485",
+      "book-name": "The Algorithm Design Manual",
+      "Author": "Book by Steven Skiena",
+      },
+      {
       "id": "589265",
       "book-name": "Data Structures and Algorithms Made Easy In Java",
       "Author": "Narasimha Karumanchi",
