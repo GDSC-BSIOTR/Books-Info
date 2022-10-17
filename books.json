@@ -2,7 +2,7 @@
   "book": [
     {
       "id":"26622",
-      "book-name":"The Defining Decade: Why Your Twenties Matter and How to Make the Most of Them Now"
+      "book-name":"The Defining Decade: Why Your Twenties Matter and How to Make the Most of Them Now",
       "Author": "Meg Jay"
      },
     {
@@ -10,6 +10,11 @@
       "book-name": "The Algorithm Design Manual",
       "Author": "Book by Steven Skiena",
       },
+      {
+        "id": "1111110000",
+        "book-name": "Harry Potter and the deathly hallows part 1",
+        "Author": "JK Rowling"
+        },
       {
       "id": "589265",
       "book-name": "Data Structures and Algorithms Made Easy In Java",
