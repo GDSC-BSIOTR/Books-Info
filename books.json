@@ -2,7 +2,7 @@
   "book": [
     {
       "id":"26622",
-      "book-name":"The Defining Decade: Why Your Twenties Matter and How to Make the Most of Them Now"
+      "book-name":"The Defining Decade: Why Your Twenties Matter and How to Make the Most of Them Now",
       "Author": "Meg Jay"
      },
     {
@@ -111,9 +111,6 @@
       "id": "01",
       "book-name": "Tom jones",
       "Author": "Hendry fielding",
-      "book-name": "Think And Grow Rich",
-      "Author": "Napoleon Hill",
-      "language": "Hindi",
       "language": "English"
     },
     {
@@ -132,15 +129,6 @@
       "id": "00",
       "book-name": "Percy Jackon The Lightning Thief",
       "Author": "Rick Riordan",
-      "language": "English"
-    },
-    {
-      "id": "01",
-      "book-name": "Tom jones",
-      "Author": "Hendry fielding",
-      "book-name": "Think And Grow Rich",
-      "Author": "Napoleon Hill",
-      "language": "Hindi",
       "language": "English"
     },
     {
@@ -895,11 +883,50 @@
   "Author" : " Chetan Bhagat",
   "language" : "English"
 },
+
 {
-  "id" : "1999",
+"id" : "789",
+  "book-name" : "A Midsummer Night's Dream",
+  "Author" : " William Shakespeare",
+  "language" : "English"
+},
+{
+  "id" : "790",
+  "book-name" : "A Time To Kill",
+  "Author" : "John Grisham",
+   "language" : "English"
+  },
+  {
+  
+  "id" : "791",
+  "book-name" : "Ignited Minds:Unleashing the Power within India",
+  "Author" : " A.P.J.Abdul Kalam",
+  "language" : "English" 
+},
+{
+  "id": "792",
+  "book-name": "Padsat",
+  "Author": "Mukesh",
+  "language": "Marathi"
+}
+{
+  "id" : "793",
+  "book-name" : "The Alchemist",
+  "Author" : " Paulo Coelho",
+  "language" : "English"
+  },
+{
+  "id": "794",
+  "book-name": "She Stood By Me",
+  "Author": "Tarun Vikash",
+  "language": "English"
+ },
+ {
+  "id" : "795",
   "book-name" : "Do Epic Shit",
   "Author" : " Ankur Warikoo",
   "language" : "English"
-}
+},
+    
 ]
 }
