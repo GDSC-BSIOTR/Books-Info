@@ -843,6 +843,53 @@
       "language": "Marathi"
     },
 {
+  "id": "794",
+  "book-name": "She Stood By Me",
+  "Author": "Tarun Vikash",
+  "language": "English"
+ },
+ {
+  "id" : "795",
+  "book-name" : "Do Epic Shit",
+  "Author" : " Ankur Warikoo",
+  "language" : "English"
+},
+ {
+   "id": "796",
+   "book-name": "Harry Potter and the deathly hallows part 1",
+   "Author": "JK Rowling",
+    "language" : "English"
+ },
+ { 
+ "id": "797", 
+  "book-name": "Shoe Dog: A Memoir by the Creator of Nike",
+  "Author": "Phil Knight",
+   "language": "English"
+    },
+{    
+     "id":"798",
+     "book-name": "The Midnight Library",
+     "Author":"Matt Haig",
+     "language": "English"
+},
+ { 
+"id": "799", 
+"book-name": "Harry Potter and the philosphers stone",
+"Author": "J.K Rowling",
+ "language": "English"
+    },{
+  "id" : "800",
+   "book-name" : "Alchemist",
+  "Author" : " Coelho",
+  "language" : "English"
+   },
+   { 
+   "id": "798", 
+   "book-name": "Revolution 20202",
+   "Author": "Chetan Bhagat",
+    "language": "English"
+   },
+    {
       "id": "793",
       "book-name": "The Alchemist",
       "Author": " Paulo Coelho",
