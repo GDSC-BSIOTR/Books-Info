@@ -1,16 +1,16 @@
 {
   "book": [
     {
-      "id":"1",
-      "book-name":"The Defining Decade: Why Your Twenties Matter and How to Make the Most of Them Now",
+      "id": "1",
+      "book-name": "The Defining Decade: Why Your Twenties Matter and How to Make the Most of Them Now",
       "Author": "Meg Jay"
-     },
+    },
     {
       "id": "2",
       "book-name": "The Algorithm Design Manual",
-      "Author": "Book by Steven Skiena",
-      },
-      {
+      "Author": "Book by Steven Skiena"
+    },
+    {
       "id": "3",
       "book-name": "Data Structures and Algorithms Made Easy In Java",
       "Author": "Narasimha Karumanchi",
@@ -22,13 +22,13 @@
       "Author": "Radhakrishnan Pillai",
       "language": "English"
     },
-     {
+    {
       "id": "5",
       "book-name": "Paper Towns",
       "Author": "John Green",
       "language": "English"
     },
-      {
+    {
       "id": "6",
       "book-name": "Looking For Alaska",
       "Author": "John Green",
@@ -40,13 +40,12 @@
       "Author": "Paulo Coleho",
       "language": "English"
     },
-     {
-      "id":"8",
+    {
+      "id": "8",
       "book-name": "The Kite Runner",
       "Author": "khalid Hussain",
       "language": "English"
-
-   },
+    },
     {
       "id": "23010",
       "book-name": "The $100 Startup",
@@ -149,23 +148,15 @@
       "Author": "Chetan Bhagat",
       "language": "English"
     },
-
     {
       "id": "02",
-
       "book-name": "Germinal",
       "Author": "Emile Zola ",
-      "language": "English",
-
+      "language": "English"
+    },
+    {
       "book-name": "Yes We Can ",
       "Author": "Garen Thomas",
-
-      "language": "English",
-
-      "language": "marathi ",
-
-      "language": "Sanskrit ",
-
       "language": "English"
     },
     {
@@ -174,15 +165,11 @@
       "Author": "Dr.A.P.J.Abdul Kalam",
       "language": "English"
     },
-
     {
       "id": "03",
-
       "book-name": "pariksha guru",
       "Author": "Srinivas das",
       "language": "Hindi"
-
-      
     },
     {
       "id": "04",
@@ -190,42 +177,34 @@
       "Author": "rhonda byrene",
       "language": "English"
     },
-
     {
       "id": "16",
       "book-name": "SUBTLE ART OF NOT GIVING A FUCK",
       "Author": "MARK MANSON",
       "language": "English"
     },
-
     {
       "id": "04",
       "book-name": "She Stood By Me",
       "Author": "Tarun Vikash",
       "language": "English"
     },
-
     {
       "id": "05",
       "book-name": "Wings Of Fire",
       "Author": "A.P.J. Abdul Kalam",
       "language": "English"
     },
-
     {
       "id": "03",
       "book-name": "my life",
       "Author": "owner",
       "language": "English"
     },
-
     {
       "id": "04",
-
       "book-name": "Ikigai",
-
       "Author": "Hector Garcia",
-
       "language": "Japanese"
     },
     {
@@ -234,106 +213,92 @@
       "Author": "Ravindrer Singh",
       "language": "English"
     },
-
     {
       "id": "04",
-
       "book-name": "Shubham Musk ",
       "Author": "Ashlee Vance",
-      "language": "Hindi",
-
+      "language": "Hindi"
+    },
+    {
       "book-name": " sily novels",
       "Author": "George Elliot",
       "language": "English"
     },
-
     {
       "id": "04",
-
       "book-name": "Shubham Musk ",
       "Author": "Ashlee Vance",
-      "language": "Hindi",
-
+      "language": "Hindi"
+    },
+    {
       "book-name": " sily novels",
       "Author": "George Elliot",
       "language": "English"
     },
-
     {
       "id": "05",
       "book-name": "Elon Musk ",
       "Author": "Ashlee yanfe",
       "language": "English"
     },
-
     {
       "id": "06",
       "book-name": "Agnipankha ",
       "Author": "A.P.J,Abdul Kalam",
       "language": "Marathi"
     },
-
     {
       "id": "022",
       "book-name": "The Intelligent creator",
       "Author": "Benjamin Graham"
     },
-
     {
       "id": "12",
       "book-name": "rich dad poor dad ",
       "Author": "Robert Kiyosaki ",
       "language": "English"
     },
-
     {
       "id": "13",
       "book-name": "Wings of fire ",
       "Author": "APJ Abdul Kalam ",
       "language": "English"
     },
-
     {
       "id": "13",
       "book-name": "The wings of fire",
       "Author": "A.P.J Abdul kalam",
       "language": "English"
     },
-
     {
       "id": "02",
       "book-name": "The Black tiger ",
       "Author": "ravindra Adiga",
       "language": "English"
     },
-
     {
       "id": "15",
       "book-name": "A little book of india ",
       "Author": "Ruskin Bond"
     },
-
     {
       "id": "27",
       "book-name": "You Can Win",
       "Author": "Shiv Khera",
       "language": "English"
     },
-
     {
       "id": "056",
       "book-name": "Man mai hai vishvas",
       "Author": "Vishvas nangare patil",
       "language": "Marathi"
     },
-
     {
       "id": "26",
       "book-name": "The Power of your subconscious mind",
       "Author": "Joseph Murphy",
       "language": "English"
     },
-
     {
       "id": "14",
       "book-name": "",
@@ -345,14 +310,12 @@
       "Author": "Robin Sharma",
       "language": "English"
     },
-
     {
       "id": "09",
       "book-name": "Wings of Fire",
       "Author": "Dr A.P.J Abdul Kalam",
       "language": "English"
     },
-
     {
       "id": "16",
       "book-name": "The Christmas Pig",
@@ -364,7 +327,6 @@
       "Author": "Robert Lafore",
       "Language": "English"
     },
-
     {
       "id": "04",
       "book-name": "Harry Potter",
@@ -376,60 +338,51 @@
       "Author": "rhonda burnye",
       "language": "English"
     },
-
     {
       "book-name": "400 Days",
       "Author": "Chetan Bhagat",
       "language": "English"
     },
-
     {
       "id": "02",
       "book-name": "one indian girl",
       "Author": "chetan bhagat",
       "language": "English"
     },
-
     {
       "id": "40",
       "book-name": "Nava Vijaypath",
       "Author": "Avinash Dhramadhikari",
       "language": "Marathi"
     },
-
     {
       "book-name": "The Power Of Positive Thinking",
       "Author": "Norman Vincent Peale",
       "language": "English"
     },
-
     {
       "id": "02",
       "book-name": "Wings of fire ",
       "Author": "A.P.J. Abdul kalam",
       "language": "English"
     },
-
     {
       "id": "41",
       "book-name": "Harry Potter and the Philosopher's Stone ",
       "Author": "J. K. Rowling",
       "language": "English"
     },
-
     {
       "id": "88",
       "book-name": "Like a flowing river ",
       "Author": "Paulo Coleho",
       "language": "English"
     },
-
     {
       "id": "16",
       "book-name": "believe in yourself",
       "author": "dr joseph murphy"
     },
-
     {
       "id": "21",
       "book-name": "Zero to one",
@@ -489,7 +442,6 @@
       "Author": "JAY SHETTY",
       "language": "English"
     },
-
     {
       "id": "756",
       "book-name": "Parallel",
@@ -508,14 +460,12 @@
       "Author": "Stephen Hawking",
       "language": "English"
     },
-
     {
       "id": "901",
       "book-name": "The Commonwealth of Cricket",
       "Author": "Ramachandra Guha",
       "language": "English"
     },
-
     {
       "id": "787",
       "book-name": "All About Love",
@@ -528,7 +478,6 @@
       "Author": "Arthur Koestler",
       "language": "English"
     },
-
     {
       "id": "789",
       "book-name": "Reminders of him",
@@ -602,51 +551,6 @@
       "language": "English"
     },
     {
-       "id":"2305",
-       "book-name": "The Almanack of Naval Ravikant",
-       "Author": "Eric Jorgenson",
-       "language": "English"
-    },
-    {
-      "id":"3003",
-      "book-name": "All Quiet on the Western Front",
-      "Author": "Erich Maria Remarque",
-      "language": "English"
-     },
-    {
-      "id":"2303",
-           "book-name": "Never Split the Difference",
-           "Author": "Chris Voss",
-           "language": "English"
-
-    },
-    {
-      "id":"2304",
-           "book-name": " Steve Jobs ",
-           "Author": "Walter Isaacson ",
-           "language": "English"
-    },
-    {
-      "id":"2305",
-           "book-name": " IT ",
-           "Author": "Stephen King ",
-           "language": "English"
-
-    },
-    {
-      "id": "000007",
-      "book-name": "hello world ",
-      "Author": "Aman Singh",
-      "language": "Tamil"
-
-    },
-    {
-      "id":"23675",
-           "book-name": " Laws of power ",
-           "Author": "Robert Greene ",
-           "language": "English"
-      },
-      {
       "id": "2305",
       "book-name": "The Almanack of Naval Ravikant",
       "Author": "Eric Jorgenson",
@@ -677,18 +581,58 @@
       "language": "English"
     },
     {
-      "id":"26"
-           "book-name": " wings of Fire ",
-           "Author": "Abdul Kalam ",
-           "language": "English"
-
+      "id": "000007",
+      "book-name": "hello world ",
+      "Author": "Aman Singh",
+      "language": "Tamil"
     },
     {
-      "id":"75",
-           "book-name": "David Copperfield",
-           "Author": "Charles Dickens ",
-           "language": "English"
-
+      "id": "23675",
+      "book-name": " Laws of power ",
+      "Author": "Robert Greene ",
+      "language": "English"
+    },
+    {
+      "id": "2305",
+      "book-name": "The Almanack of Naval Ravikant",
+      "Author": "Eric Jorgenson",
+      "language": "English"
+    },
+    {
+      "id": "3003",
+      "book-name": "All Quiet on the Western Front",
+      "Author": "Erich Maria Remarque",
+      "language": "English"
+    },
+    {
+      "id": "2303",
+      "book-name": "Never Split the Difference",
+      "Author": "Chris Voss",
+      "language": "English"
+    },
+    {
+      "id": "2304",
+      "book-name": " Steve Jobs ",
+      "Author": "Walter Isaacson ",
+      "language": "English"
+    },
+    {
+      "id": "2305",
+      "book-name": " IT ",
+      "Author": "Stephen King ",
+      "language": "English"
+    },
+    {
+      "id": "26",
+      "book-name": " wings of Fire ",
+      "Author": "Abdul Kalam ",
+      "language": "English"
+    },
+    {
+      "id": "75",
+      "book-name": "David Copperfield",
+      "Author": "Charles Dickens ",
+      "language": "English"
     },
     {
       "id": "000007",
@@ -697,18 +641,18 @@
       "language": "Tamil"
     },
     {
-      "id":"2306",
-           "book-name": "The Origin of Species",
-           "Author": "Charles Darwin",
-           "language": "English"
+      "id": "2306",
+      "book-name": "The Origin of Species",
+      "Author": "Charles Darwin",
+      "language": "English"
     },
     {
-      "id":"2306",
-           "book-name": "Eat That FROG",
-           "Author": "Brian Tracy",
-           "language": "English"
+      "id": "2306",
+      "book-name": "Eat That FROG",
+      "Author": "Brian Tracy",
+      "language": "English"
     },
-     {
+    {
       "id": "2307",
       "book-name": "The 100: A Ranking of the Most Influential Persons in History",
       "Author": "Michael H. Hart",
@@ -719,13 +663,13 @@
       "book-name": "Jika Kita Tak Pernah Jadi Apa-Apa",
       "Author": "Alvi Syahrin",
       "language": "Indonesia"
-      },
-       {
-      "id":"2307",
-           "book-name": "The Canterville Ghost",
-           "Author": "Oscar Wilde",
-           "language": "English"
-    },    
+    },
+    {
+      "id": "2307",
+      "book-name": "The Canterville Ghost",
+      "Author": "Oscar Wilde",
+      "language": "English"
+    },
     {
       "id": "23675",
       "book-name": " Laws of power ",
@@ -754,17 +698,17 @@
       "id": "2307",
       "book-name": "The Whole-Brain Child",
       "Author": "Daniel J Siegel MD"
-    }, 
+    },
     {
       "id": "00",
       "book-name": "Do Epic Shit",
       "Author": "Ankur Warikoo"
     },
     {
-       "id":"93",
-       "book-name": "The Secret",   
-       "Author": "Rhonda Byrne",
-       "language": "English"
+      "id": "93",
+      "book-name": "The Secret",
+      "Author": "Rhonda Byrne",
+      "language": "English"
     },
     {
       "id": "1196",
@@ -779,17 +723,16 @@
       "language": "English"
     },
     {
-       "id":"1205",
-       "book-name": "Queen of Fire",   
-       "Author": "Devika Rangachari",
-       "language": "English"
-       },
-{
+      "id": "1205",
+      "book-name": "Queen of Fire",
+      "Author": "Devika Rangachari",
+      "language": "English"
+    },
+    {
       "id": "1200",
       "book-name": "Do Epic Shit",
       "Author": "Ankur Warikoo",
       "language": "English"
-
     },
     {
       "id": "1786",
@@ -803,153 +746,155 @@
       "Author": " Thomas H. Cormen, Charles E. Leiserson, Ronald Rivest, Clifford Stein",
       "language": "English"
     },
-  {
+    {
       "id": "3226",
       "book-name": "A Better india: A Better World",
       "Author": " Narayana Murthy",
       "language": "English"
     },
-{
+    {
       "id": "787",
       "book-name": "Rudest book ever",
       "Author": " Swetabh Gangwar",
       "language": "English"
-},
-  {
+    },
+    {
       "id": "790",
       "book-name": "write my name across the sky",
       "Author": " Barbara O'neal ",
       "language": "English"
     },
-{
-  "id" : "064",
-  "book-name" : "The Alchemist",
-  "Author" : " Paulo Coelho",
-  "language" : "English"
-},
-{      "id":"6969",
-     "book-name": "To the Lighthouse",
-     "Author":"Virginia Woolf",
-     "language": "English"
+    {
+      "id": "064",
+      "book-name": "The Alchemist",
+      "Author": " Paulo Coelho",
+      "language": "English"
+    },
+    {
+      "id": "6969",
+      "book-name": "To the Lighthouse",
+      "Author": "Virginia Woolf",
+      "language": "English"
+    },
+    {
+      "id": "28",
+      "book-name": "Data Analytics: The Complete Beginner's Guide: the Black Book",
+      "Author": "Byron Francis",
+      "language": "English"
     },
 {
-  "id": "28",
-  "book-name": "Data Analytics: The Complete Beginner's Guide: the Black Book",
-  "Author": "Byron Francis",
-  "language": "English"
-}
-
-
-{    
-     "id":"0126",
-     "book-name": "The Midnight Library",
-     "Author":"Matt Haig",
-     "language": "English"
-},
-    
-{    
-     "id":"0125",
-     "book-name": "Anxious People",
-     "Author":"Fredrik Backman",
-     "language": "English"
-},
-{
-  "id" : "065",
-  "book-name" : "A Prisoner of Birth",
-  "Author" : " Jeffrey Archer",
-  "language" : "English"
-},
-{
-  "id" : "68",
-  "book-name" : "War and Peace",
-  "Author" : " Leo Tolstoy",
-  "language" : "English"
-},
-{
-  "id" : "788",
-  "book-name" : "Two States",
-  "Author" : " Chetan Bhagat",
-  "language" : "English"
-},
-
-{
-  "id" : "788",
-  "book-name" : "Two States",
-  "Author" : " Chetan Bhagat",
-  "language" : "English"
-}, 
-{
-"id" : "789",
-  "book-name" : "A Midsummer Night's Dream",
-  "Author" : " William Shakespeare",
-  "language" : "English"
-},
-{
-  "id" : "790",
-  "book-name" : "A Time To Kill",
-  "Author" : "John Grisham",
-   "language" : "English"
-  },
-  {
-  
-  "id" : "791",
-  "book-name" : "Ignited Minds:Unleashing the Power within India",
-  "Author" : " A.P.J.Abdul Kalam",
-  "language" : "English" 
-},
-{
-  "id": "792",
-  "book-name": "Padsat",
-  "Author": "Mukesh",
-  "language": "Marathi"
-}
-{
-  "id" : "793",
-  "book-name" : "The Alchemist",
-  "Author" : " Paulo Coelho",
-  "language" : "English"
-  },
-{
-  "id": "794",
-  "book-name": "She Stood By Me",
-  "Author": "Tarun Vikash",
-  "language": "English"
- },
- {
-  "id" : "795",
-  "book-name" : "Do Epic Shit",
-  "Author" : " Ankur Warikoo",
-  "language" : "English"
-},
- {
-   "id": "796",
-   "book-name": "Harry Potter and the deathly hallows part 1",
-   "Author": "JK Rowling",
-    "language" : "English"
- },
- { 
-"id": "797", 
-"book-name": "Shoe Dog: A Memoir by the Creator of Nike",
-"Author": "Phil Knight",
- "language": "English"
+      "id": "0126",
+      "book-name": "The Midnight Library",
+      "Author": "Matt Haig",
+      "language": "English"
     },
-{    
-     "id":"798",
-     "book-name": "The Midnight Library",
-     "Author":"Matt Haig",
-     "language": "English"
-},
- { 
-"id": "799", 
-"book-name": "Harry Potter and the philosphers stone",
-"Author": "J.K Rowling",
- "language": "English"
+    {
+      "id": "0125",
+      "book-name": "Anxious People",
+      "Author": "Fredrik Backman",
+      "language": "English"
+    },
+    {
+      "id": "065",
+      "book-name": "A Prisoner of Birth",
+      "Author": " Jeffrey Archer",
+      "language": "English"
+    },
+    {
+      "id": "68",
+      "book-name": "War and Peace",
+      "Author": " Leo Tolstoy",
+      "language": "English"
+    },
+    {
+      "id": "788",
+      "book-name": "Two States",
+      "Author": " Chetan Bhagat",
+      "language": "English"
+    },
+    {
+      "id": "788",
+      "book-name": "Two States",
+      "Author": " Chetan Bhagat",
+      "language": "English"
+    },
+    {
+      "id": "789",
+      "book-name": "A Midsummer Night's Dream",
+      "Author": " William Shakespeare",
+      "language": "English"
+    },
+    {
+      "id": "790",
+      "book-name": "A Time To Kill",
+      "Author": "John Grisham",
+      "language": "English"
+    },
+    {
+      "id": "791",
+      "book-name": "Ignited Minds:Unleashing the Power within India",
+      "Author": " A.P.J.Abdul Kalam",
+      "language": "English"
+    },
+    {
+      "id": "792",
+      "book-name": "Padsat",
+      "Author": "Mukesh",
+      "language": "Marathi"
+    },
+{
+      "id": "793",
+      "book-name": "The Alchemist",
+      "Author": " Paulo Coelho",
+      "language": "English"
+    },
+    {
+      "id": "794",
+      "book-name": "She Stood By Me",
+      "Author": "Tarun Vikash",
+      "language": "English"
+    },
+    {
+      "id": "795",
+      "book-name": "Do Epic Shit",
+      "Author": " Ankur Warikoo",
+      "language": "English"
+    },
+    {
+      "id": "796",
+      "book-name": "Harry Potter and the deathly hallows part 1",
+      "Author": "JK Rowling",
+      "language": "English"
+    },
+    {
+      "id": "797",
+      "book-name": "Shoe Dog: A Memoir by the Creator of Nike",
+      "Author": "Phil Knight",
+      "language": "English"
+    },
+    {
+      "id": "798",
+      "book-name": "The Midnight Library",
+      "Author": "Matt Haig",
+      "language": "English"
+    },
+    {
+      "id": "799",
+      "book-name": "Harry Potter and the philosphers stone",
+      "Author": "J.K Rowling",
+      "language": "English"
+    },
+    {
+      "id": "798",
+      "book-name": "Revolution 20202",
+      "Author": "Chetan Bhagat",
+      "language": "English"
+    },
+    {
+      "id": "800",
+      "book-name": "Donde los árboles cantan",
+      "Author": "Laura Gallego García",
+      "language": "Spanish"
     }
-]
+  ]
 }
-{ 
-"id": "798", 
-"book-name": "Revolution 20202",
-"Author": "Chetan Bhagat",
- "language": "English"
-    },
